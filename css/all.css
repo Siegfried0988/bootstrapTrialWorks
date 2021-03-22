@@ -1,0 +1,192 @@
+* {
+  box-sizing: border-box;
+}
+
+body, html {
+  height: 100%;
+  line-height: 1.5;
+  font-family: "Microsoft JhengHei", PMingLiU, MingLiu;
+}
+
+h1 {
+  font-size: 64px;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+h3 {
+  font-size: 32px;
+  font-family: "Dancing Script", cursive;
+}
+
+h4 {
+  font-size: 40px;
+  font-family: "Dancing Script", cursive;
+}
+
+a {
+  color: #a31f34;
+}
+
+.container {
+  max-width: 1140px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+.row {
+  margin-left: -15px;
+  margin-right: -15px;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.h100 {
+  height: 100%;
+}
+
+.v-center {
+  top: 50%;
+  transform: translateY(-50%);
+  position: relative;
+}
+
+.relative {
+  position: relative;
+}
+
+.pull-left {
+  float: left;
+}
+
+.pull-right {
+  float: right;
+}
+
+.circle-border {
+  border: transparent 2px solid;
+  border-radius: 100%;
+}
+
+.border-white {
+  border-color: white;
+}
+
+.bg-darker {
+  background-color: #2e2822;
+}
+
+.bg-gray {
+  background-color: #1c1815;
+}
+
+.bg-dark {
+  background-color: #333;
+}
+
+.bg-white {
+  background-color: #fff;
+}
+
+.bg-darkBlue {
+  background-color: #000514;
+}
+
+.bg-red {
+  background-color: #a31f34;
+}
+
+.text-primary {
+  color: #a31f34;
+}
+
+.text-success {
+  color: #00CC99;
+}
+
+.text-accent {
+  color: #e26789;
+}
+
+.text-white {
+  color: white;
+  text-decoration: none;
+}
+
+.text-Brown {
+  color: #cdb8a5;
+  text-decoration: none;
+}
+
+.text-darkBrown {
+  color: #bd7461;
+  text-decoration: none;
+}
+
+.text-gray {
+  color: #bfbfbf;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.block {
+  display: block;
+}
+
+.box-shadow {
+  position: relative;
+}
+.box-shadow:before {
+  content: " ";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  top: 0;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.15);
+}
+
+.bg-gradient1 {
+  background-image: linear-gradient(45deg, #7d634b, #cc9452);
+}
+
+.bg-gradient2 {
+  background-image: linear-gradient(45deg, #212e42, #15171a);
+}
+
+.bg-gradient3 {
+  background-image: linear-gradient(45deg, #1c1815, #1c1815);
+}
+
+.animated {
+  opacity: 0;
+  transition: all 1.5s;
+  transform: translateY(50px);
+}
+
+.fadeIn {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.btn-outline-light {
+  color: white;
+  border-color: white;
+}
+
+.table-dark {
+  background-color: #806748;
+}
