@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script type="text/javascript" src="./script.js"></script>
+
+</head>
+
+
+<body>
+    <script type="text/javascript" src="./navBar.js"></script>
+    <!-- data-show-columns-toggle-all="true"
+    data-show-refresh="true" 
+    data-show-toggle="true"-->
+    <!-- .btn-secondary 用來設定按鈕的顏色 -->
+
+    <div class="mr-5 ml-5 " style="padding-top: 65px;">
+
+        <table data-toggle="table" data-sortable="true" data-sort-class="table-active" data-pagination="true"
+            data-search="true" data-show-search-clear-button="true" data-show-columns="true"
+            data-mobile-responsive="true" data-url="./taipeiPark.json">
+            <thead>
+                <tr>
+                    <th data-field=CarParkName.Zh_tw data-sortable="true">名稱</th>
+                    <th data-field="Address" data-sortable="true">地址</th>
+                    <th data-field="Description">描述</th>
+                    <th data-field="FareDescription">費率</th>
+
+
+
+                    <!-- <th data-field="payGuide" data-show-columns="false" >payGuide</th> -->
+                </tr>
+            </thead>
+        </table>
+    </div>
+
+</body>
+
+</html>

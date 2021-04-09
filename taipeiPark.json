@@ -1,0 +1,1562 @@
+[
+    {
+      "CarParkID": "113",
+      "CarParkName": {
+        "Zh_tw": "興隆公園地下停車場"
+      },
+      "OperatorID": "21101573",
+      "Description": "立體式小型車259格(含身心障礙停車位6格)。立體式機車58格(含身心障礙停車位5格)。",
+      "CarParkType": 3,
+      "ParkingGuideType": 2,
+      "ParkingTypes": [
+        4
+      ],
+      "ParkingSiteTypes": [
+        19
+      ],
+      "ChargeTypes": [
+        1
+      ],
+      "Telephone": "2933-5014",
+      "EmergencyPhone": "2933-5014",
+      "CarParkPosition": {
+        "PositionLat": 25.00019,
+        "PositionLon": 121.5513
+      },
+      "Email": "pma@mail.taipei.gov.tw",
+      "Address": "仙岩路128號地下",
+      "FareDescription": "計時：20元/時全程以半小時計費。月租：一般民眾全日4,800元，所在里里民優惠2,700元，停車場出入口半徑300公尺內鄰近里全日優惠3,000元；機車計次20元，機車月票300元。本場提供計程車免費一小時服務。",
+      "IsFreeParkingOutOfHours": 0,
+      "IsPublic": 0,
+      "OperationType": 2,
+      "LiveOccuppancyAvailable": 0,
+      "EVRechargingAvailable": 0,
+      "MonthlyTicketAvailable": 0,
+      "SeasonTicketAvailable": 0,
+      "ReservationAvailable": 0,
+      "WheelchairAccessible": 0,
+      "OvernightPermitted": 0,
+      "TicketMachine": 0,
+      "Toilet": 0,
+      "Restaurant": 0,
+      "GasStation": 0,
+      "Shop": 0,
+      "Gated": 0,
+      "Lighting": 0,
+      "SecureParking": 0,
+      "TicketOffice": 0,
+      "ProhibitedForAnyHazardousMaterialLoads": 0,
+      "SecurityGuard": 0,
+      "Supervision": 0,
+      "City": "Taipei",
+      "CityCode": "TPE"
+    },
+    {
+      "CarParkID": "187",
+      "CarParkName": {
+        "Zh_tw": "松山工農地下停車場"
+      },
+      "OperatorID": "21101573",
+      "Description": "立體式小型車239格(含身心障礙停車位5格)。立體式機車189格(含身心障礙停車位4格)。",
+      "CarParkType": 3,
+      "ParkingGuideType": 2,
+      "ParkingTypes": [
+        4
+      ],
+      "ParkingSiteTypes": [
+        19
+      ],
+      "ChargeTypes": [
+        1
+      ],
+      "Telephone": "2345-0672",
+      "EmergencyPhone": "2345-0672",
+      "CarParkPosition": {
+        "PositionLat": 25.03958,
+        "PositionLon": 121.57229
+      },
+      "Email": "pma@mail.taipei.gov.tw",
+      "Address": "忠孝東路5段236巷15號地下",
+      "FareDescription": "計時：小型車週一至週五30元/時，週六、日與行政機關放假之紀念日及民俗日40元/時，全程以半小時計費；機車10元/時，當日當次最高收費上限20元(隔日另計)。月票：小型車全日月票5,200元，機車月票300元。",
+      "IsFreeParkingOutOfHours": 0,
+      "IsPublic": 0,
+      "OperationType": 2,
+      "LiveOccuppancyAvailable": 0,
+      "EVRechargingAvailable": 0,
+      "MonthlyTicketAvailable": 0,
+      "SeasonTicketAvailable": 0,
+      "ReservationAvailable": 0,
+      "WheelchairAccessible": 0,
+      "OvernightPermitted": 0,
+      "TicketMachine": 0,
+      "Toilet": 0,
+      "Restaurant": 0,
+      "GasStation": 0,
+      "Shop": 0,
+      "Gated": 0,
+      "Lighting": 0,
+      "SecureParking": 0,
+      "TicketOffice": 0,
+      "ProhibitedForAnyHazardousMaterialLoads": 0,
+      "SecurityGuard": 0,
+      "Supervision": 0,
+      "City": "Taipei",
+      "CityCode": "TPE"
+    },
+    {
+      "CarParkID": "100",
+      "CarParkName": {
+        "Zh_tw": "七星公園地下停車場"
+      },
+      "OperatorID": "21101573",
+      "Description": "立體式小型車328格(含身心障礙停車位7格)。立體式機車52格(含身心障礙停車位3格)。",
+      "CarParkType": 3,
+      "ParkingGuideType": 2,
+      "ParkingTypes": [
+        4
+      ],
+      "ParkingSiteTypes": [
+        19
+      ],
+      "ChargeTypes": [
+        1
+      ],
+      "Telephone": "2655-1516",
+      "EmergencyPhone": "2655-1516",
+      "CarParkPosition": {
+        "PositionLat": 25.13654,
+        "PositionLon": 121.50194
+      },
+      "Email": "pma@mail.taipei.gov.tw",
+      "Address": "光明路225號",
+      "FareDescription": "計時：小型車30元/時(全程以半小時計價)。月票：全日月票3000元；日間2000元(07-20)；夜間1200元(周一至周五19-08及周六、日與行政機關放假之紀念日、民俗日全日使用)。機車：10元/時，最高上限20元，月租300元",
+      "IsFreeParkingOutOfHours": 0,
+      "IsPublic": 0,
+      "OperationType": 1,
+      "LiveOccuppancyAvailable": 0,
+      "EVRechargingAvailable": 0,
+      "MonthlyTicketAvailable": 0,
+      "SeasonTicketAvailable": 0,
+      "ReservationAvailable": 0,
+      "WheelchairAccessible": 0,
+      "OvernightPermitted": 0,
+      "TicketMachine": 0,
+      "Toilet": 0,
+      "Restaurant": 0,
+      "GasStation": 0,
+      "Shop": 0,
+      "Gated": 0,
+      "Lighting": 0,
+      "SecureParking": 0,
+      "TicketOffice": 0,
+      "ProhibitedForAnyHazardousMaterialLoads": 0,
+      "SecurityGuard": 0,
+      "Supervision": 0,
+      "City": "Taipei",
+      "CityCode": "TPE"
+    },
+    {
+      "CarParkID": "102",
+      "CarParkName": {
+        "Zh_tw": "承德公園地下停車場"
+      },
+      "OperatorID": "21101573",
+      "Description": "立體式小型車176格(含身心障礙停車位6格)。立體式機車62格(含身心障礙停車位2格)。",
+      "CarParkType": 3,
+      "ParkingGuideType": 2,
+      "ParkingTypes": [
+        4
+      ],
+      "ParkingSiteTypes": [
+        19
+      ],
+      "ChargeTypes": [
+        1
+      ],
+      "Telephone": "2883-7104",
+      "EmergencyPhone": "2883-7104",
+      "CarParkPosition": {
+        "PositionLat": 25.08978,
+        "PositionLon": 121.52199
+      },
+      "Email": "pma@mail.taipei.gov.tw",
+      "Address": "基河路150號地下",
+      "FareDescription": "計時：小型車周一至周四(0-9)10元/時，(9-22)40元/時，(22-24)10元/時，小型車周五至周日及行政機關放假之紀念日及民俗節日(0-8)10元/時，(8-12)30元/時，(12-24)50元/時，全程以半小時計費。月租：小型車全日月票4,800元，日間月票2,000元(7-19)，機車全日月票300元，機車20元/次，隔日另計。",
+      "IsFreeParkingOutOfHours": 0,
+      "IsPublic": 0,
+      "OperationType": 2,
+      "LiveOccuppancyAvailable": 0,
+      "EVRechargingAvailable": 0,
+      "MonthlyTicketAvailable": 0,
+      "SeasonTicketAvailable": 0,
+      "ReservationAvailable": 0,
+      "WheelchairAccessible": 0,
+      "OvernightPermitted": 0,
+      "TicketMachine": 0,
+      "Toilet": 0,
+      "Restaurant": 0,
+      "GasStation": 0,
+      "Shop": 0,
+      "Gated": 0,
+      "Lighting": 0,
+      "SecureParking": 0,
+      "TicketOffice": 0,
+      "ProhibitedForAnyHazardousMaterialLoads": 0,
+      "SecurityGuard": 0,
+      "Supervision": 0,
+      "City": "Taipei",
+      "CityCode": "TPE"
+    },
+    {
+      "CarParkID": "K00192",
+      "CarParkName": {
+        "Zh_tw": "康樂合署大樓地下停車場"
+      },
+      "OperatorID": "21101573",
+      "Description": "建物附設立體式小型車53格(含身心障礙停車位2格，孕婦、育有6歲以下兒童停車位1格)。建物附設立體式機車31格(含身心障礙停車位1格)。",
+      "CarParkType": 3,
+      "ParkingGuideType": 1,
+      "ParkingTypes": [
+        4
+      ],
+      "ParkingSiteTypes": [
+        19
+      ],
+      "ChargeTypes": [
+        1
+      ],
+      "Telephone": "2563-2408",
+      "EmergencyPhone": "2563-2408",
+      "CarParkPosition": {
+        "PositionLat": 25.0726,
+        "PositionLon": 121.61921
+      },
+      "Email": "pma@mail.taipei.gov.tw",
+      "Address": "康樂街150號地下室",
+      "FareDescription": "計時：小型車30元/時。機車40元/時，最高收費上限20元。（全程以半小時計費）月租：小型車4,000元/月，里民優惠月票3,200元/月(內湖區安泰里、內溝里、東湖里)，所在地里民優惠月票2,800元/月(內湖區康樂里)。機車300元/月。",
+      "IsFreeParkingOutOfHours": 0,
+      "IsPublic": 0,
+      "OperationType": 1,
+      "LiveOccuppancyAvailable": 0,
+      "EVRechargingAvailable": 0,
+      "MonthlyTicketAvailable": 0,
+      "SeasonTicketAvailable": 0,
+      "ReservationAvailable": 0,
+      "WheelchairAccessible": 0,
+      "OvernightPermitted": 0,
+      "TicketMachine": 0,
+      "Toilet": 0,
+      "Restaurant": 0,
+      "GasStation": 0,
+      "Shop": 0,
+      "Gated": 0,
+      "Lighting": 0,
+      "SecureParking": 0,
+      "TicketOffice": 0,
+      "ProhibitedForAnyHazardousMaterialLoads": 0,
+      "SecurityGuard": 0,
+      "Supervision": 0,
+      "City": "Taipei",
+      "CityCode": "TPE"
+    },
+    {
+      "CarParkID": "B00079",
+      "CarParkName": {
+        "Zh_tw": "大業立體停車場(機械)"
+      },
+      "OperatorID": "21101573",
+      "Description": "塔台式小型車122格(含身心障礙停車位2格)。",
+      "CarParkType": 4,
+      "ParkingGuideType": 2,
+      "ParkingTypes": [
+        4
+      ],
+      "ParkingSiteTypes": [
+        19
+      ],
+      "ChargeTypes": [
+        1
+      ],
+      "Telephone": "2891-7080",
+      "EmergencyPhone": "2891-7080",
+      "CarParkPosition": {
+        "PositionLat": 25.13768,
+        "PositionLon": 121.50289
+      },
+      "Email": "pma@mail.taipei.gov.tw",
+      "Address": "大業路745號",
+      "FareDescription": "計時：30元/時，全程以半小時計費。月租：全日3,000元/月。",
+      "IsFreeParkingOutOfHours": 0,
+      "IsPublic": 0,
+      "OperationType": 1,
+      "LiveOccuppancyAvailable": 0,
+      "EVRechargingAvailable": 0,
+      "MonthlyTicketAvailable": 0,
+      "SeasonTicketAvailable": 0,
+      "ReservationAvailable": 0,
+      "WheelchairAccessible": 0,
+      "OvernightPermitted": 0,
+      "TicketMachine": 0,
+      "Toilet": 0,
+      "Restaurant": 0,
+      "GasStation": 0,
+      "Shop": 0,
+      "Gated": 0,
+      "Lighting": 0,
+      "SecureParking": 0,
+      "TicketOffice": 0,
+      "ProhibitedForAnyHazardousMaterialLoads": 0,
+      "SecurityGuard": 0,
+      "Supervision": 0,
+      "City": "Taipei",
+      "CityCode": "TPE"
+    },
+    {
+      "CarParkID": "335",
+      "CarParkName": {
+        "Zh_tw": "大理地下停車場"
+      },
+      "OperatorID": "21101573",
+      "Description": "為立體地下停車場，計有55個小型車格",
+      "CarParkType": 3,
+      "ParkingGuideType": 1,
+      "ParkingTypes": [
+        4
+      ],
+      "ParkingSiteTypes": [
+        19
+      ],
+      "ChargeTypes": [
+        1
+      ],
+      "Telephone": "2252-5022",
+      "EmergencyPhone": "2252-5022",
+      "CarParkPosition": {
+        "PositionLat": 25.03416,
+        "PositionLon": 121.49354
+      },
+      "Email": "pma@mail.taipei.gov.tw",
+      "Address": "環河南路2段127號旁地下室",
+      "FareDescription": "計時：20元/時(全程以半小時計費)。月租：4,800元，里民(糖廍、青山、柳鄉、華江、綠堤、和平里)優惠3,000元/月。",
+      "IsFreeParkingOutOfHours": 0,
+      "IsPublic": 0,
+      "OperationType": 1,
+      "LiveOccuppancyAvailable": 0,
+      "EVRechargingAvailable": 0,
+      "MonthlyTicketAvailable": 0,
+      "SeasonTicketAvailable": 0,
+      "ReservationAvailable": 0,
+      "WheelchairAccessible": 0,
+      "OvernightPermitted": 0,
+      "TicketMachine": 0,
+      "Toilet": 0,
+      "Restaurant": 0,
+      "GasStation": 0,
+      "Shop": 0,
+      "Gated": 0,
+      "Lighting": 0,
+      "SecureParking": 0,
+      "TicketOffice": 0,
+      "ProhibitedForAnyHazardousMaterialLoads": 0,
+      "SecurityGuard": 0,
+      "Supervision": 0,
+      "City": "Taipei",
+      "CityCode": "TPE"
+    },
+    {
+      "CarParkID": "105",
+      "CarParkName": {
+        "Zh_tw": "玉成國小地下停車場"
+      },
+      "OperatorID": "21101573",
+      "Description": "立體式小型車297格(含身心障礙停車位8格)。立體式機車28格(含身心障礙停車位3格)。",
+      "CarParkType": 3,
+      "ParkingGuideType": 1,
+      "ParkingTypes": [
+        4
+      ],
+      "ParkingSiteTypes": [
+        19
+      ],
+      "ChargeTypes": [
+        1
+      ],
+      "Telephone": "27829226",
+      "EmergencyPhone": "27829226",
+      "CarParkPosition": {
+        "PositionLat": 25.05355,
+        "PositionLon": 121.59282
+      },
+      "Email": "pma@mail.taipei.gov.tw",
+      "Address": "昆陽街23號B1、B2",
+      "FareDescription": "計時20元(18-08時)，30元(08-18時)全程以半小時計費。月租：全日優惠2,500元，所在里優惠1,750元，半徑300公尺鄰近里優惠2,000元。機車計次20元，全日月票300元。本場提供計程車免費一小時服務。",
+      "IsFreeParkingOutOfHours": 0,
+      "IsPublic": 0,
+      "OperationType": 2,
+      "LiveOccuppancyAvailable": 0,
+      "EVRechargingAvailable": 0,
+      "MonthlyTicketAvailable": 0,
+      "SeasonTicketAvailable": 0,
+      "ReservationAvailable": 0,
+      "WheelchairAccessible": 0,
+      "OvernightPermitted": 0,
+      "TicketMachine": 0,
+      "Toilet": 0,
+      "Restaurant": 0,
+      "GasStation": 0,
+      "Shop": 0,
+      "Gated": 0,
+      "Lighting": 0,
+      "SecureParking": 0,
+      "TicketOffice": 0,
+      "ProhibitedForAnyHazardousMaterialLoads": 0,
+      "SecurityGuard": 0,
+      "Supervision": 0,
+      "City": "Taipei",
+      "CityCode": "TPE"
+    },
+    {
+      "CarParkID": "165",
+      "CarParkName": {
+        "Zh_tw": "玉成公園地下停車場"
+      },
+      "OperatorID": "21101573",
+      "Description": "立體式小型車412格(含身心障礙停車位9格)。立體式機車84格(含身心障礙停車位3格)。",
+      "CarParkType": 3,
+      "ParkingGuideType": 2,
+      "ParkingTypes": [
+        4
+      ],
+      "ParkingSiteTypes": [
+        19
+      ],
+      "ChargeTypes": [
+        1
+      ],
+      "Telephone": "2651-7459",
+      "EmergencyPhone": "2651-7459",
+      "CarParkPosition": {
+        "PositionLat": 2.50574,
+        "PositionLon": 121.53266
+      },
+      "Email": "pma@mail.taipei.gov.tw",
+      "Address": "成福路118號地下1、2層",
+      "FareDescription": "計時20元(全程以半小時計費)，月租：全日優惠4,800元，所在里優惠3,000元，300公尺鄰近里優惠3,200元；夜間2,400元(週一至週五19-08及假日)。機車計次20元，全日月票300元。本場提供計程車免費一小時服務。",
+      "IsFreeParkingOutOfHours": 0,
+      "IsPublic": 0,
+      "OperationType": 2,
+      "LiveOccuppancyAvailable": 0,
+      "EVRechargingAvailable": 0,
+      "MonthlyTicketAvailable": 0,
+      "SeasonTicketAvailable": 0,
+      "ReservationAvailable": 0,
+      "WheelchairAccessible": 0,
+      "OvernightPermitted": 0,
+      "TicketMachine": 0,
+      "Toilet": 0,
+      "Restaurant": 0,
+      "GasStation": 0,
+      "Shop": 0,
+      "Gated": 0,
+      "Lighting": 0,
+      "SecureParking": 0,
+      "TicketOffice": 0,
+      "ProhibitedForAnyHazardousMaterialLoads": 0,
+      "SecurityGuard": 0,
+      "Supervision": 0,
+      "City": "Taipei",
+      "CityCode": "TPE"
+    },
+    {
+      "CarParkID": "107",
+      "CarParkName": {
+        "Zh_tw": "信義國小地下停車場"
+      },
+      "OperatorID": "21101573",
+      "Description": "立體式小型車231格(含身心障礙停車位5格)。立體式機車50格(含身心障礙停車位1格)。",
+      "CarParkType": 3,
+      "ParkingGuideType": 2,
+      "ParkingTypes": [
+        4
+      ],
+      "ParkingSiteTypes": [
+        19
+      ],
+      "ChargeTypes": [
+        1
+      ],
+      "Telephone": "2758-8124",
+      "EmergencyPhone": "2758-8124",
+      "CarParkPosition": {
+        "PositionLat": 25.03137,
+        "PositionLon": 121.56322
+      },
+      "Email": "pma@mail.taipei.gov.tw",
+      "Address": "信義區松勤街60號地下",
+      "FareDescription": "計時：小型車40元/時，全程以半小時計費。月票：小型車全日月票5,000元，日間月票3,000元(7-19)，夜間月票2,400元(19-8)。機車全日月票300元，計次：機車20元/次，隔日另計。",
+      "IsFreeParkingOutOfHours": 0,
+      "IsPublic": 0,
+      "OperationType": 2,
+      "LiveOccuppancyAvailable": 0,
+      "EVRechargingAvailable": 0,
+      "MonthlyTicketAvailable": 0,
+      "SeasonTicketAvailable": 0,
+      "ReservationAvailable": 0,
+      "WheelchairAccessible": 0,
+      "OvernightPermitted": 0,
+      "TicketMachine": 0,
+      "Toilet": 0,
+      "Restaurant": 0,
+      "GasStation": 0,
+      "Shop": 0,
+      "Gated": 0,
+      "Lighting": 0,
+      "SecureParking": 0,
+      "TicketOffice": 0,
+      "ProhibitedForAnyHazardousMaterialLoads": 0,
+      "SecurityGuard": 0,
+      "Supervision": 0,
+      "City": "Taipei",
+      "CityCode": "TPE"
+    },
+    {
+      "CarParkID": "195",
+      "CarParkName": {
+        "Zh_tw": "新糖廍公園地下停車場"
+      },
+      "OperatorID": "21101573",
+      "Description": "為地下停車場，計有70個小型車格",
+      "CarParkType": 3,
+      "ParkingGuideType": 1,
+      "ParkingTypes": [
+        4
+      ],
+      "ParkingSiteTypes": [
+        19
+      ],
+      "ChargeTypes": [
+        1
+      ],
+      "Telephone": "2252-5022",
+      "EmergencyPhone": "2252-5022",
+      "CarParkPosition": {
+        "PositionLat": 25.03363,
+        "PositionLon": 121.49454
+      },
+      "Email": "pma@mail.taipei.gov.tw",
+      "Address": "大理街160巷2號地下",
+      "FareDescription": "計時：20元/時，全程以半小時計費)。計次：大型車100元/次(隔日另計)。月租:小型車2,400元/月，身心障礙優惠1,200元/月。",
+      "IsFreeParkingOutOfHours": 0,
+      "IsPublic": 0,
+      "OperationType": 1,
+      "LiveOccuppancyAvailable": 0,
+      "EVRechargingAvailable": 0,
+      "MonthlyTicketAvailable": 0,
+      "SeasonTicketAvailable": 0,
+      "ReservationAvailable": 0,
+      "WheelchairAccessible": 0,
+      "OvernightPermitted": 0,
+      "TicketMachine": 0,
+      "Toilet": 0,
+      "Restaurant": 0,
+      "GasStation": 0,
+      "Shop": 0,
+      "Gated": 0,
+      "Lighting": 0,
+      "SecureParking": 0,
+      "TicketOffice": 0,
+      "ProhibitedForAnyHazardousMaterialLoads": 0,
+      "SecurityGuard": 0,
+      "Supervision": 0,
+      "City": "Taipei",
+      "CityCode": "TPE"
+    },
+    {
+      "CarParkID": "198",
+      "CarParkName": {
+        "Zh_tw": "永建國小地下停車場"
+      },
+      "OperatorID": "21101573",
+      "Description": "建物附設立體式小型車211格(含身心障礙停車位5格)。建物附設立體式機車83格(含身心障礙停車位2格)。",
+      "CarParkType": 3,
+      "ParkingGuideType": 2,
+      "ParkingTypes": [
+        4
+      ],
+      "ParkingSiteTypes": [
+        19
+      ],
+      "ChargeTypes": [
+        1
+      ],
+      "Telephone": "2959-9991",
+      "EmergencyPhone": "2959-9991",
+      "CarParkPosition": {
+        "PositionLat": 24.98874,
+        "PositionLon": 121.5556
+      },
+      "Email": "pma@mail.taipei.gov.tw",
+      "Address": "台北市文山區木柵路一段311巷1號",
+      "FareDescription": "臨停：小型車20元/時（大型重機比照小型車收費）機車10元/時(當日最高上限20元，隔日另計)全程以半小時計費。月租：全日月票3,000元/月，全日里民優惠月票最高2,600元/月(樟林里、明義里)；所在地全日里民優惠月票2,400元/月(華興里)。機車月票300元。身心障礙這可享上述月票半價優惠。",
+      "IsFreeParkingOutOfHours": 0,
+      "IsPublic": 0,
+      "OperationType": 1,
+      "LiveOccuppancyAvailable": 0,
+      "EVRechargingAvailable": 0,
+      "MonthlyTicketAvailable": 0,
+      "SeasonTicketAvailable": 0,
+      "ReservationAvailable": 0,
+      "WheelchairAccessible": 0,
+      "OvernightPermitted": 0,
+      "TicketMachine": 0,
+      "Toilet": 0,
+      "Restaurant": 0,
+      "GasStation": 0,
+      "Shop": 0,
+      "Gated": 0,
+      "Lighting": 0,
+      "SecureParking": 0,
+      "TicketOffice": 0,
+      "ProhibitedForAnyHazardousMaterialLoads": 0,
+      "SecurityGuard": 0,
+      "Supervision": 0,
+      "City": "Taipei",
+      "CityCode": "TPE"
+    },
+    {
+      "CarParkID": "591",
+      "CarParkName": {
+        "Zh_tw": "市民大道(復敦段)"
+      },
+      "OperatorID": "21101573",
+      "Description": "立體式小型車214格(含身心障礙停車位5格)。",
+      "CarParkType": 3,
+      "ParkingGuideType": 2,
+      "ParkingTypes": [
+        4
+      ],
+      "ParkingSiteTypes": [
+        19
+      ],
+      "ChargeTypes": [
+        1
+      ],
+      "Telephone": "2721-1136",
+      "EmergencyPhone": "2721-1136",
+      "CarParkPosition": {
+        "PositionLat": 25.04507,
+        "PositionLon": 121.54677
+      },
+      "Email": "pma@mail.taipei.gov.tw",
+      "Address": "復興南路-敦化南路(地下)",
+      "FareDescription": "計時：週日至週四30元/時(08-12)，40元/時(12-23)，10元/時(23-08)，週五至週六40元/時(08-12)，50元/時(12-23)，10元/時(23-08)，全程以半小時計費。月租：全日月票6,500/月，日間月票3,600元/月(07-19)，夜間月票3,000元/月(19-08)。",
+      "IsFreeParkingOutOfHours": 0,
+      "IsPublic": 0,
+      "OperationType": 1,
+      "LiveOccuppancyAvailable": 0,
+      "EVRechargingAvailable": 0,
+      "MonthlyTicketAvailable": 0,
+      "SeasonTicketAvailable": 0,
+      "ReservationAvailable": 0,
+      "WheelchairAccessible": 0,
+      "OvernightPermitted": 0,
+      "TicketMachine": 0,
+      "Toilet": 0,
+      "Restaurant": 0,
+      "GasStation": 0,
+      "Shop": 0,
+      "Gated": 0,
+      "Lighting": 0,
+      "SecureParking": 0,
+      "TicketOffice": 0,
+      "ProhibitedForAnyHazardousMaterialLoads": 0,
+      "SecurityGuard": 0,
+      "Supervision": 0,
+      "City": "Taipei",
+      "CityCode": "TPE"
+    },
+    {
+      "CarParkID": "582",
+      "CarParkName": {
+        "Zh_tw": "市民大道(敦延段)"
+      },
+      "OperatorID": "21101573",
+      "Description": "立體式小型車217格(含身心障礙停車位5格)。",
+      "CarParkType": 3,
+      "ParkingGuideType": 2,
+      "ParkingTypes": [
+        4
+      ],
+      "ParkingSiteTypes": [
+        19
+      ],
+      "ChargeTypes": [
+        1
+      ],
+      "Telephone": "2799-5657",
+      "EmergencyPhone": "2799-5657",
+      "CarParkPosition": {
+        "PositionLat": 25.04466,
+        "PositionLon": 121.5506
+      },
+      "Email": "pma@mail.taipei.gov.tw",
+      "Address": "敦化南路-延吉街(地下)",
+      "FareDescription": "計時：週一週五30元/時(08-22)，夜間10元/時(22-08)，週六至週日30元/時(08-18)，40元/時(18-23)，夜間10元/時(23-08)，全程以半小時計費。月租：全日月票6,500/月，日間月票3,600元/月(07-19)，夜間月票3,000元/月(19-08)。",
+      "IsFreeParkingOutOfHours": 0,
+      "IsPublic": 0,
+      "OperationType": 1,
+      "LiveOccuppancyAvailable": 0,
+      "EVRechargingAvailable": 0,
+      "MonthlyTicketAvailable": 0,
+      "SeasonTicketAvailable": 0,
+      "ReservationAvailable": 0,
+      "WheelchairAccessible": 0,
+      "OvernightPermitted": 0,
+      "TicketMachine": 0,
+      "Toilet": 0,
+      "Restaurant": 0,
+      "GasStation": 0,
+      "Shop": 0,
+      "Gated": 0,
+      "Lighting": 0,
+      "SecureParking": 0,
+      "TicketOffice": 0,
+      "ProhibitedForAnyHazardousMaterialLoads": 0,
+      "SecurityGuard": 0,
+      "Supervision": 0,
+      "City": "Taipei",
+      "CityCode": "TPE"
+    },
+    {
+      "CarParkID": "229",
+      "CarParkName": {
+        "Zh_tw": "嘉興公園地下停車場"
+      },
+      "OperatorID": "21101573",
+      "Description": "立體式小型車195格(含身心障礙停車位4格)。立體式機車64格(含身心障礙停車位2格)。",
+      "CarParkType": 3,
+      "ParkingGuideType": 1,
+      "ParkingTypes": [
+        4
+      ],
+      "ParkingSiteTypes": [
+        19
+      ],
+      "ChargeTypes": [
+        1
+      ],
+      "Telephone": "8732-1451",
+      "EmergencyPhone": "8732-1451",
+      "CarParkPosition": {
+        "PositionLat": 25.02146,
+        "PositionLon": 121.55204
+      },
+      "Email": "pma@mail.taipei.gov.tw",
+      "Address": "嘉興街373號",
+      "FareDescription": "小型車計時：30元/時，全程以半小時計費。小型車月租：全日4,800元/月。機車計次：20元/次。機車月租：300元/月。本場提供計程車免費一小時服務。",
+      "IsFreeParkingOutOfHours": 0,
+      "IsPublic": 0,
+      "OperationType": 2,
+      "LiveOccuppancyAvailable": 0,
+      "EVRechargingAvailable": 0,
+      "MonthlyTicketAvailable": 0,
+      "SeasonTicketAvailable": 0,
+      "ReservationAvailable": 0,
+      "WheelchairAccessible": 0,
+      "OvernightPermitted": 0,
+      "TicketMachine": 0,
+      "Toilet": 0,
+      "Restaurant": 0,
+      "GasStation": 0,
+      "Shop": 0,
+      "Gated": 0,
+      "Lighting": 0,
+      "SecureParking": 0,
+      "TicketOffice": 0,
+      "ProhibitedForAnyHazardousMaterialLoads": 0,
+      "SecurityGuard": 0,
+      "Supervision": 0,
+      "City": "Taipei",
+      "CityCode": "TPE"
+    },
+    {
+      "CarParkID": "B83",
+      "CarParkName": {
+        "Zh_tw": "陽明山立體停車場"
+      },
+      "OperatorID": "21101573",
+      "Description": "小型車208格(含身心障礙停車位5格)。機車246格(含身心障礙停車位5格)。",
+      "CarParkType": 2,
+      "ParkingGuideType": 1,
+      "ParkingTypes": [
+        4
+      ],
+      "ParkingSiteTypes": [
+        19
+      ],
+      "ChargeTypes": [
+        1
+      ],
+      "Telephone": "2655-0818",
+      "EmergencyPhone": "2655-0818",
+      "CarParkPosition": {
+        "PositionLat": 25.15513,
+        "PositionLon": 121.53892
+      },
+      "Email": "pma@mail.taipei.gov.tw",
+      "Address": "湖山路(陽明山公園大門口旁)",
+      "FareDescription": "計時：週一至週五：小型車每小時20元。週六日、政府行政機關放假之紀念日及民俗節日：小型車每小時30元。(全程以半小時計算收費)。計次：機車每次20元(隔日另計)。花季及海芋季期間所有車種之收費費率及方式，依停管處通知之收費標準及方式實施。每日19時至羿日07時(含例假日)開放免費停車。",
+      "IsFreeParkingOutOfHours": 0,
+      "IsPublic": 0,
+      "OperationType": 1,
+      "LiveOccuppancyAvailable": 0,
+      "EVRechargingAvailable": 0,
+      "MonthlyTicketAvailable": 0,
+      "SeasonTicketAvailable": 0,
+      "ReservationAvailable": 0,
+      "WheelchairAccessible": 0,
+      "OvernightPermitted": 0,
+      "TicketMachine": 0,
+      "Toilet": 0,
+      "Restaurant": 0,
+      "GasStation": 0,
+      "Shop": 0,
+      "Gated": 0,
+      "Lighting": 0,
+      "SecureParking": 0,
+      "TicketOffice": 0,
+      "ProhibitedForAnyHazardousMaterialLoads": 0,
+      "SecurityGuard": 0,
+      "Supervision": 0,
+      "City": "Taipei",
+      "CityCode": "TPE"
+    },
+    {
+      "CarParkID": "114",
+      "CarParkName": {
+        "Zh_tw": "景美國小地下停車場"
+      },
+      "OperatorID": "21101573",
+      "Description": "立體式小型車253格(含身心障礙停車位6格)。立體式機車92格(含身心障礙停車位3格)。",
+      "CarParkType": 3,
+      "ParkingGuideType": 2,
+      "ParkingTypes": [
+        4
+      ],
+      "ParkingSiteTypes": [
+        19
+      ],
+      "ChargeTypes": [
+        1
+      ],
+      "Telephone": "2930-1538",
+      "EmergencyPhone": "2930-1538",
+      "CarParkPosition": {
+        "PositionLat": 24.98869,
+        "PositionLon": 121.54027
+      },
+      "Email": "pma@mail.taipei.gov.tw",
+      "Address": "景文街142巷2號地下。",
+      "FareDescription": "計時：20元/時，全程以半小時計費。月租：全日4,800元，日間2,000元(7-19)，夜間月票1,200元(19-8)，所在里、里民全日月票3,000元，機車計次20元，機車月票300元。本場提供計程車免費一小時服務。",
+      "IsFreeParkingOutOfHours": 0,
+      "IsPublic": 0,
+      "OperationType": 2,
+      "LiveOccuppancyAvailable": 0,
+      "EVRechargingAvailable": 0,
+      "MonthlyTicketAvailable": 0,
+      "SeasonTicketAvailable": 0,
+      "ReservationAvailable": 0,
+      "WheelchairAccessible": 0,
+      "OvernightPermitted": 0,
+      "TicketMachine": 0,
+      "Toilet": 0,
+      "Restaurant": 0,
+      "GasStation": 0,
+      "Shop": 0,
+      "Gated": 0,
+      "Lighting": 0,
+      "SecureParking": 0,
+      "TicketOffice": 0,
+      "ProhibitedForAnyHazardousMaterialLoads": 0,
+      "SecurityGuard": 0,
+      "Supervision": 0,
+      "City": "Taipei",
+      "CityCode": "TPE"
+    },
+    {
+      "CarParkID": "193",
+      "CarParkName": {
+        "Zh_tw": "松山國小地下停車場"
+      },
+      "OperatorID": "21101573",
+      "Description": "立體式小型車286格(含身心障礙停車位6格)。立體式機車135格(含身心障礙停車位4格)。",
+      "CarParkType": 3,
+      "ParkingGuideType": 1,
+      "ParkingTypes": [
+        4
+      ],
+      "ParkingSiteTypes": [
+        19
+      ],
+      "ChargeTypes": [
+        1
+      ],
+      "Telephone": "2747-5478",
+      "EmergencyPhone": "2747-5478",
+      "CarParkPosition": {
+        "PositionLat": 25.05051,
+        "PositionLon": 121.57819
+      },
+      "Email": "pma@mail.taipei.gov.tw",
+      "Address": "八德路四段746號",
+      "FareDescription": "計時：周一至周四小型車40元/時，周五至日及政府行政機關放假之紀念日及民俗日計時50元，全程以半小時計費。月租：全日月票4,800元，夜間月票2,000元(19-08)。，機車全日月票300元，計次：機車20元/次，隔日另計。",
+      "IsFreeParkingOutOfHours": 0,
+      "IsPublic": 0,
+      "OperationType": 2,
+      "LiveOccuppancyAvailable": 0,
+      "EVRechargingAvailable": 0,
+      "MonthlyTicketAvailable": 0,
+      "SeasonTicketAvailable": 0,
+      "ReservationAvailable": 0,
+      "WheelchairAccessible": 0,
+      "OvernightPermitted": 0,
+      "TicketMachine": 0,
+      "Toilet": 0,
+      "Restaurant": 0,
+      "GasStation": 0,
+      "Shop": 0,
+      "Gated": 0,
+      "Lighting": 0,
+      "SecureParking": 0,
+      "TicketOffice": 0,
+      "ProhibitedForAnyHazardousMaterialLoads": 0,
+      "SecurityGuard": 0,
+      "Supervision": 0,
+      "City": "Taipei",
+      "CityCode": "TPE"
+    },
+    {
+      "CarParkID": "580",
+      "CarParkName": {
+        "Zh_tw": "市民大道(延吉段)"
+      },
+      "OperatorID": "21101573",
+      "Description": "立體式小型車79格(含身心障礙停車位2格)。",
+      "CarParkType": 3,
+      "ParkingGuideType": 2,
+      "ParkingTypes": [
+        4
+      ],
+      "ParkingSiteTypes": [
+        19
+      ],
+      "ChargeTypes": [
+        1
+      ],
+      "Telephone": "2779-5657",
+      "EmergencyPhone": "2779-5657",
+      "CarParkPosition": {
+        "PositionLat": 25.04436,
+        "PositionLon": 121.55357
+      },
+      "Email": "pma@mail.taipei.gov.tw",
+      "Address": "延吉街兩側(地下)",
+      "FareDescription": "計時：週日至週四30元/時(08-12)，40元/時(12-23)，10元/時(23-08)，週五至週六40元/時(08-12)，50元/時(12-23)，10元/時(23-08)，全程以半小時計費。月租：全日月票6,500元/月，日間月票3,600元/月(07-19)，夜間月票3,000元/月(19-08)。",
+      "IsFreeParkingOutOfHours": 0,
+      "IsPublic": 0,
+      "OperationType": 1,
+      "LiveOccuppancyAvailable": 0,
+      "EVRechargingAvailable": 0,
+      "MonthlyTicketAvailable": 0,
+      "SeasonTicketAvailable": 0,
+      "ReservationAvailable": 0,
+      "WheelchairAccessible": 0,
+      "OvernightPermitted": 0,
+      "TicketMachine": 0,
+      "Toilet": 0,
+      "Restaurant": 0,
+      "GasStation": 0,
+      "Shop": 0,
+      "Gated": 0,
+      "Lighting": 0,
+      "SecureParking": 0,
+      "TicketOffice": 0,
+      "ProhibitedForAnyHazardousMaterialLoads": 0,
+      "SecurityGuard": 0,
+      "Supervision": 0,
+      "City": "Taipei",
+      "CityCode": "TPE"
+    },
+    {
+      "CarParkID": "124",
+      "CarParkName": {
+        "Zh_tw": "社子國小地下停車場"
+      },
+      "OperatorID": "21101573",
+      "Description": "立體式小型車464格(含身心障礙停車位10格)。立體式機車213格(含身心障礙停車位5格)。",
+      "CarParkType": 3,
+      "ParkingGuideType": 2,
+      "ParkingTypes": [
+        4
+      ],
+      "ParkingSiteTypes": [
+        19
+      ],
+      "ChargeTypes": [
+        1
+      ],
+      "Telephone": "2542-0001",
+      "EmergencyPhone": "2542-0001",
+      "CarParkPosition": {
+        "PositionLat": 25.09097,
+        "PositionLon": 121.50256
+      },
+      "Email": "pma@mail.taipei.gov.tw",
+      "Address": "延平北路6段308號地下",
+      "FareDescription": "每小時20元(全程以半小時計費)。月租全日優惠3,500元，所在里(永倫里)優惠3,000元，日間(08-18)2,000元，夜間(19-08)1,800元。機車計次20元(隔日另計)，月票300元。",
+      "IsFreeParkingOutOfHours": 0,
+      "IsPublic": 0,
+      "OperationType": 1,
+      "LiveOccuppancyAvailable": 0,
+      "EVRechargingAvailable": 0,
+      "MonthlyTicketAvailable": 0,
+      "SeasonTicketAvailable": 0,
+      "ReservationAvailable": 0,
+      "WheelchairAccessible": 0,
+      "OvernightPermitted": 0,
+      "TicketMachine": 0,
+      "Toilet": 0,
+      "Restaurant": 0,
+      "GasStation": 0,
+      "Shop": 0,
+      "Gated": 0,
+      "Lighting": 0,
+      "SecureParking": 0,
+      "TicketOffice": 0,
+      "ProhibitedForAnyHazardousMaterialLoads": 0,
+      "SecurityGuard": 0,
+      "Supervision": 0,
+      "City": "Taipei",
+      "CityCode": "TPE"
+    },
+    {
+      "CarParkID": "106",
+      "CarParkName": {
+        "Zh_tw": "蓬萊國小地下停車場"
+      },
+      "OperatorID": "21101573",
+      "Description": "立體式小型車286格(含身心障礙停車位6格)。立體式機車144格(含身心障礙停車位3格)。",
+      "CarParkType": 3,
+      "ParkingGuideType": 2,
+      "ParkingTypes": [
+        4
+      ],
+      "ParkingSiteTypes": [
+        19
+      ],
+      "ChargeTypes": [
+        1
+      ],
+      "Telephone": "2556-7024",
+      "EmergencyPhone": "2556-7024",
+      "CarParkPosition": {
+        "PositionLat": 25.05655,
+        "PositionLon": 121.51626
+      },
+      "Email": "pma@mail.taipei.gov.tw",
+      "Address": "寧夏路35號B1、B2",
+      "FareDescription": "計時：30元/時，以半小時計費，機車計次20元，隔日另計。月租：全日5,760元，里民4,608元，所在里4,032，機車月租300元。本場提供計程車免費一小時服務。",
+      "IsFreeParkingOutOfHours": 0,
+      "IsPublic": 0,
+      "OperationType": 1,
+      "LiveOccuppancyAvailable": 0,
+      "EVRechargingAvailable": 0,
+      "MonthlyTicketAvailable": 0,
+      "SeasonTicketAvailable": 0,
+      "ReservationAvailable": 0,
+      "WheelchairAccessible": 0,
+      "OvernightPermitted": 0,
+      "TicketMachine": 0,
+      "Toilet": 0,
+      "Restaurant": 0,
+      "GasStation": 0,
+      "Shop": 0,
+      "Gated": 0,
+      "Lighting": 0,
+      "SecureParking": 0,
+      "TicketOffice": 0,
+      "ProhibitedForAnyHazardousMaterialLoads": 0,
+      "SecurityGuard": 0,
+      "Supervision": 0,
+      "City": "Taipei",
+      "CityCode": "TPE"
+    },
+    {
+      "CarParkID": "111",
+      "CarParkName": {
+        "Zh_tw": "蘭雅公園地下停車場"
+      },
+      "OperatorID": "21101573",
+      "Description": "立體式小型車155格(含身心障礙停車位4格)。",
+      "CarParkType": 3,
+      "ParkingGuideType": 1,
+      "ParkingTypes": [
+        4
+      ],
+      "ParkingSiteTypes": [
+        19
+      ],
+      "ChargeTypes": [
+        1
+      ],
+      "Telephone": "2831-8004",
+      "EmergencyPhone": "2831-8004",
+      "CarParkPosition": {
+        "PositionLat": 25.10976,
+        "PositionLon": 121.52895
+      },
+      "Email": "pma@mail.taipei.gov.tw",
+      "Address": "德行東路129巷31號地下",
+      "FareDescription": "計時：週一至週五30元/時，小型車周六、日與行政機關放假之紀念日民俗日40元/時(全程以半小時計費)。月租：全日月票5,200元",
+      "IsFreeParkingOutOfHours": 0,
+      "IsPublic": 0,
+      "OperationType": 2,
+      "LiveOccuppancyAvailable": 0,
+      "EVRechargingAvailable": 0,
+      "MonthlyTicketAvailable": 0,
+      "SeasonTicketAvailable": 0,
+      "ReservationAvailable": 0,
+      "WheelchairAccessible": 0,
+      "OvernightPermitted": 0,
+      "TicketMachine": 0,
+      "Toilet": 0,
+      "Restaurant": 0,
+      "GasStation": 0,
+      "Shop": 0,
+      "Gated": 0,
+      "Lighting": 0,
+      "SecureParking": 0,
+      "TicketOffice": 0,
+      "ProhibitedForAnyHazardousMaterialLoads": 0,
+      "SecurityGuard": 0,
+      "Supervision": 0,
+      "City": "Taipei",
+      "CityCode": "TPE"
+    },
+    {
+      "CarParkID": "103",
+      "CarParkName": {
+        "Zh_tw": "南港國小地下停車場"
+      },
+      "OperatorID": "21101573",
+      "Description": "立體式小型車311格(含身心障礙停車位8格)。立體式機車71格(含身心障礙停車位6格)。",
+      "CarParkType": 3,
+      "ParkingGuideType": 2,
+      "ParkingTypes": [
+        4
+      ],
+      "ParkingSiteTypes": [
+        19
+      ],
+      "ChargeTypes": [
+        1
+      ],
+      "Telephone": "2759-0666",
+      "EmergencyPhone": "2759-0666",
+      "CarParkPosition": {
+        "PositionLat": 25.05712,
+        "PositionLon": 121.61109
+      },
+      "Email": "pma@mail.taipei.gov.tw",
+      "Address": "興東街59號地下1樓",
+      "FareDescription": "計時：小型車周一至周五30元/時(8-20)，夜間計時20元/時(22-8)，週六日與行政機關放假之紀念日與民俗日40元/時(8-20)，夜間計時20元/時(20-08)，全程以半小時計費。月租：小型車全日4,800元，日間3,500元(8-20)，夜間1,000元(周一至周五19-8及週六日與行政機關放假之紀念日與民俗日適用)。機車計次20元(隔日另計)；月票300元。",
+      "IsFreeParkingOutOfHours": 0,
+      "IsPublic": 0,
+      "OperationType": 2,
+      "LiveOccuppancyAvailable": 0,
+      "EVRechargingAvailable": 0,
+      "MonthlyTicketAvailable": 0,
+      "SeasonTicketAvailable": 0,
+      "ReservationAvailable": 0,
+      "WheelchairAccessible": 0,
+      "OvernightPermitted": 0,
+      "TicketMachine": 0,
+      "Toilet": 0,
+      "Restaurant": 0,
+      "GasStation": 0,
+      "Shop": 0,
+      "Gated": 0,
+      "Lighting": 0,
+      "SecureParking": 0,
+      "TicketOffice": 0,
+      "ProhibitedForAnyHazardousMaterialLoads": 0,
+      "SecurityGuard": 0,
+      "Supervision": 0,
+      "City": "Taipei",
+      "CityCode": "TPE"
+    },
+    {
+      "CarParkID": "188",
+      "CarParkName": {
+        "Zh_tw": "松山車站地下停車場"
+      },
+      "OperatorID": "21101573",
+      "Description": "立體式小型車431格(含身心障礙停車位16格)。",
+      "CarParkType": 3,
+      "ParkingGuideType": 2,
+      "ParkingTypes": [
+        1
+      ],
+      "ParkingSiteTypes": [
+        19
+      ],
+      "ChargeTypes": [
+        1
+      ],
+      "Telephone": "2759-0666",
+      "EmergencyPhone": "2759-0666",
+      "CarParkPosition": {
+        "PositionLat": 25.04849,
+        "PositionLon": 121.57831
+      },
+      "Email": "pma@mail.taipei.gov.tw",
+      "Address": "松山路11號地下",
+      "FareDescription": "計時：小型車周一至周四40元/時，小型車周五至周日及行政機關放假之紀念日及民俗節日50元/時，全程以半小時計費；當日當次收費上限300元，隔日另計。月租：小型車全日月票5,500元，日間月票3,600元(7-19)。",
+      "IsFreeParkingOutOfHours": 0,
+      "IsPublic": 0,
+      "OperationType": 2,
+      "LiveOccuppancyAvailable": 0,
+      "EVRechargingAvailable": 0,
+      "MonthlyTicketAvailable": 0,
+      "SeasonTicketAvailable": 0,
+      "ReservationAvailable": 0,
+      "WheelchairAccessible": 0,
+      "OvernightPermitted": 0,
+      "TicketMachine": 0,
+      "Toilet": 0,
+      "Restaurant": 0,
+      "GasStation": 0,
+      "Shop": 0,
+      "Gated": 0,
+      "Lighting": 0,
+      "SecureParking": 0,
+      "TicketOffice": 0,
+      "ProhibitedForAnyHazardousMaterialLoads": 0,
+      "SecurityGuard": 0,
+      "Supervision": 0,
+      "City": "Taipei",
+      "CityCode": "TPE"
+    },
+    {
+      "CarParkID": "384",
+      "CarParkName": {
+        "Zh_tw": "興隆D2區公共住宅地下停車場"
+      },
+      "OperatorID": "21101573",
+      "Description": "建物附設小型車349格(含身心障礙停車位7格，孕婦、育有6歲以下兒童停車位7格)。建物附設立體式機車401格(含身心障礙停車位8格)。",
+      "CarParkType": 3,
+      "ParkingGuideType": 2,
+      "ParkingTypes": [
+        4
+      ],
+      "ParkingSiteTypes": [
+        19
+      ],
+      "ChargeTypes": [
+        1
+      ],
+      "Telephone": "24551299",
+      "EmergencyPhone": "24551299",
+      "CarParkPosition": {
+        "PositionLat": 24.98788,
+        "PositionLon": 121.5625
+      },
+      "Email": "pma@mail.taipei.gov.tw",
+      "Address": "臺北市文山區興隆路4段105巷45號",
+      "FareDescription": "計時：小型車20元/時。機車10元/時，機車當日當次最高收費上限20元(隔日另計)，全程以半小時計費。月租：小型車全日4,800元/月以3,000元促銷，里民優惠(明興里、樟林里、木柵里、忠順里)3,840元/月2,600元促銷，所在地里民優惠(明義里)3,360元/月以2,400元促銷；機車全日300元/月。",
+      "IsFreeParkingOutOfHours": 0,
+      "IsPublic": 0,
+      "OperationType": 1,
+      "LiveOccuppancyAvailable": 0,
+      "EVRechargingAvailable": 0,
+      "MonthlyTicketAvailable": 0,
+      "SeasonTicketAvailable": 0,
+      "ReservationAvailable": 0,
+      "WheelchairAccessible": 0,
+      "OvernightPermitted": 0,
+      "TicketMachine": 0,
+      "Toilet": 0,
+      "Restaurant": 0,
+      "GasStation": 0,
+      "Shop": 0,
+      "Gated": 0,
+      "Lighting": 0,
+      "SecureParking": 0,
+      "TicketOffice": 0,
+      "ProhibitedForAnyHazardousMaterialLoads": 0,
+      "SecurityGuard": 0,
+      "Supervision": 0,
+      "City": "Taipei",
+      "CityCode": "TPE"
+    },
+    {
+      "CarParkID": "128",
+      "CarParkName": {
+        "Zh_tw": "萬興國小地下停車場"
+      },
+      "OperatorID": "21101573",
+      "Description": "立體式小型車234格(含身心障礙停車位5格)。立體式機車188格(含身心障礙停車位4格)。",
+      "CarParkType": 3,
+      "ParkingGuideType": 2,
+      "ParkingTypes": [
+        4
+      ],
+      "ParkingSiteTypes": [
+        19
+      ],
+      "ChargeTypes": [
+        1
+      ],
+      "Telephone": "2759-0666",
+      "EmergencyPhone": "2759-0666",
+      "CarParkPosition": {
+        "PositionLat": 24.98942,
+        "PositionLon": 121.57658
+      },
+      "Email": "pma@mail.taipei.gov.tw",
+      "Address": "秀明路2段116號地下",
+      "FareDescription": "計時：20元/時，全程以半小時收費。月租：3,500元，所在里2,500元；一般里民3,000元；日間1,800元(8-20)；夜間月票2,000元(20-08及假日)，夜間月票(二)1,000元(15-01及假日)。 機車計次20元，機車月票3000",
+      "IsFreeParkingOutOfHours": 0,
+      "IsPublic": 0,
+      "OperationType": 2,
+      "LiveOccuppancyAvailable": 0,
+      "EVRechargingAvailable": 0,
+      "MonthlyTicketAvailable": 0,
+      "SeasonTicketAvailable": 0,
+      "ReservationAvailable": 0,
+      "WheelchairAccessible": 0,
+      "OvernightPermitted": 0,
+      "TicketMachine": 0,
+      "Toilet": 0,
+      "Restaurant": 0,
+      "GasStation": 0,
+      "Shop": 0,
+      "Gated": 0,
+      "Lighting": 0,
+      "SecureParking": 0,
+      "TicketOffice": 0,
+      "ProhibitedForAnyHazardousMaterialLoads": 0,
+      "SecurityGuard": 0,
+      "Supervision": 0,
+      "City": "Taipei",
+      "CityCode": "TPE"
+    },
+    {
+      "CarParkID": "877",
+      "CarParkName": {
+        "Zh_tw": "西湖公園地下停車場"
+      },
+      "OperatorID": "21101573",
+      "Description": "地下停車場，計有175個小型車格",
+      "CarParkType": 3,
+      "ParkingGuideType": 2,
+      "ParkingTypes": [
+        4
+      ],
+      "ParkingSiteTypes": [
+        19
+      ],
+      "ChargeTypes": [
+        1
+      ],
+      "Telephone": "8919-3669",
+      "EmergencyPhone": "8919-3669",
+      "CarParkPosition": {
+        "PositionLat": 25.08243,
+        "PositionLon": 121.57018
+      },
+      "Email": "pma@mail.taipei.gov.tw",
+      "Address": "內湖路1段387巷38號地下",
+      "FareDescription": "計時20元/時，全程以半小時計費。月租：2,800元/月。",
+      "IsFreeParkingOutOfHours": 0,
+      "IsPublic": 0,
+      "OperationType": 1,
+      "LiveOccuppancyAvailable": 0,
+      "EVRechargingAvailable": 0,
+      "MonthlyTicketAvailable": 0,
+      "SeasonTicketAvailable": 0,
+      "ReservationAvailable": 0,
+      "WheelchairAccessible": 0,
+      "OvernightPermitted": 0,
+      "TicketMachine": 0,
+      "Toilet": 0,
+      "Restaurant": 0,
+      "GasStation": 0,
+      "Shop": 0,
+      "Gated": 0,
+      "Lighting": 0,
+      "SecureParking": 0,
+      "TicketOffice": 0,
+      "ProhibitedForAnyHazardousMaterialLoads": 0,
+      "SecurityGuard": 0,
+      "Supervision": 0,
+      "City": "Taipei",
+      "CityCode": "TPE"
+    },
+    {
+      "CarParkID": "249",
+      "CarParkName": {
+        "Zh_tw": "啟聰學校地下停車場"
+      },
+      "OperatorID": "21101573",
+      "Description": "立體式小型車179格(含身心障礙停車位4格)。立體式機車98格(含身心障礙停車位4格)。",
+      "CarParkType": 3,
+      "ParkingGuideType": 1,
+      "ParkingTypes": [
+        4
+      ],
+      "ParkingSiteTypes": [
+        19
+      ],
+      "ChargeTypes": [
+        1
+      ],
+      "Telephone": "2599-5546",
+      "EmergencyPhone": "2599-5546",
+      "CarParkPosition": {
+        "PositionLat": 25.07464,
+        "PositionLon": 121.51203
+      },
+      "Email": "pma@mail.taipei.gov.tw",
+      "Address": "延平北路四段205號B1",
+      "FareDescription": "每小時30元(全程以半小時計費)。月租：全日優惠4,800元，所在里(老師里)優惠3,000元，半徑300公尺鄰近里優惠3,500元，機車計次20元，全日月票300元。本場提供計程車免費一小時服務。",
+      "IsFreeParkingOutOfHours": 0,
+      "IsPublic": 0,
+      "OperationType": 2,
+      "LiveOccuppancyAvailable": 0,
+      "EVRechargingAvailable": 0,
+      "MonthlyTicketAvailable": 0,
+      "SeasonTicketAvailable": 0,
+      "ReservationAvailable": 0,
+      "WheelchairAccessible": 0,
+      "OvernightPermitted": 0,
+      "TicketMachine": 0,
+      "Toilet": 0,
+      "Restaurant": 0,
+      "GasStation": 0,
+      "Shop": 0,
+      "Gated": 0,
+      "Lighting": 0,
+      "SecureParking": 0,
+      "TicketOffice": 0,
+      "ProhibitedForAnyHazardousMaterialLoads": 0,
+      "SecurityGuard": 0,
+      "Supervision": 0,
+      "City": "Taipei",
+      "CityCode": "TPE"
+    },
+    {
+      "CarParkID": "129",
+      "CarParkName": {
+        "Zh_tw": "西康地下停車場"
+      },
+      "OperatorID": "21101573",
+      "Description": "為地下停車場，計有86個小型車格",
+      "CarParkType": 3,
+      "ParkingGuideType": 2,
+      "ParkingTypes": [
+        4
+      ],
+      "ParkingSiteTypes": [
+        19
+      ],
+      "ChargeTypes": [
+        1
+      ],
+      "Telephone": "2658-8208",
+      "EmergencyPhone": "2658-8208",
+      "CarParkPosition": {
+        "PositionLat": 25.08472,
+        "PositionLon": 121.56375
+      },
+      "Email": "pma@mail.taipei.gov.tw",
+      "Address": "內湖路1段203巷25號地下",
+      "FareDescription": "計時：20元/時，全程以半小時計費。月租：全日4,800元/月，全日里民優惠(內湖區西康里、西安里、西湖里、中山區金泰里)、3,000元/月。",
+      "IsFreeParkingOutOfHours": 0,
+      "IsPublic": 0,
+      "OperationType": 1,
+      "LiveOccuppancyAvailable": 0,
+      "EVRechargingAvailable": 0,
+      "MonthlyTicketAvailable": 0,
+      "SeasonTicketAvailable": 0,
+      "ReservationAvailable": 0,
+      "WheelchairAccessible": 0,
+      "OvernightPermitted": 0,
+      "TicketMachine": 0,
+      "Toilet": 0,
+      "Restaurant": 0,
+      "GasStation": 0,
+      "Shop": 0,
+      "Gated": 0,
+      "Lighting": 0,
+      "SecureParking": 0,
+      "TicketOffice": 0,
+      "ProhibitedForAnyHazardousMaterialLoads": 0,
+      "SecurityGuard": 0,
+      "Supervision": 0,
+      "City": "Taipei",
+      "CityCode": "TPE"
+    },
+    {
+      "CarParkID": "372",
+      "CarParkName": {
+        "Zh_tw": "八德立體停車場"
+      },
+      "OperatorID": "21101573",
+      "Description": "建物附設立體式小型車310格(含身心障礙停車位8格)。建物附設立體式機車382格(含身心障礙停車位9格)。",
+      "CarParkType": 2,
+      "ParkingGuideType": 2,
+      "ParkingTypes": [
+        4
+      ],
+      "ParkingSiteTypes": [
+        19
+      ],
+      "ChargeTypes": [
+        1
+      ],
+      "Telephone": "2793-5818",
+      "EmergencyPhone": "2793-5818",
+      "CarParkPosition": {
+        "PositionLat": 25.04971,
+        "PositionLon": 121.57171
+      },
+      "Email": "pma@mail.taipei.gov.tw",
+      "Address": "台北市松山區八德路四段568號",
+      "FareDescription": "計時：汽車週一至週四40元/時，週五至週日，政府行政機關放假之紀念日、民俗節日、政政機關彈性調整放假日50元/時，全程半小時計費。月租：汽車全日4,800元/月，全日里民優惠3,840元/月(新東里、安平里、新聚里、新仁里、雅祥里、四育里、五常里)，所在地里全日里民優惠3,360元/月(慈佑里)，機車全日300元/月。計次：機車20元/次(凡跨越每日凌晨零時起加計1次)。",
+      "IsFreeParkingOutOfHours": 0,
+      "IsPublic": 0,
+      "OperationType": 1,
+      "LiveOccuppancyAvailable": 0,
+      "EVRechargingAvailable": 0,
+      "MonthlyTicketAvailable": 0,
+      "SeasonTicketAvailable": 0,
+      "ReservationAvailable": 0,
+      "WheelchairAccessible": 0,
+      "OvernightPermitted": 0,
+      "TicketMachine": 0,
+      "Toilet": 0,
+      "Restaurant": 0,
+      "GasStation": 0,
+      "Shop": 0,
+      "Gated": 0,
+      "Lighting": 0,
+      "SecureParking": 0,
+      "TicketOffice": 0,
+      "ProhibitedForAnyHazardousMaterialLoads": 0,
+      "SecurityGuard": 0,
+      "Supervision": 0,
+      "City": "Taipei",
+      "CityCode": "TPE"
+    }
+  ]

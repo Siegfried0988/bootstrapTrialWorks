@@ -11,7 +11,8 @@ $background-color: #fcfbf5;
 $font-color: #333;
 $font-color-gray: lighten($font-color, 55%);
 
-$brand-primary: #a31f34;
+$brand-primary: #833c1e;
+$brand-secondary: #8fb0df;
 $brand-success: #00CC99;
 $brand-accent: #e26789;
 $brand-brown: #cdb8a5;
@@ -140,7 +141,7 @@ a {
 .bg-darkBlue {
   background-color: #000514;
 }
-.bg-red {
+.bg-blue {
   background-color: $brand-primary;
 }
 
@@ -189,6 +190,7 @@ a {
 }
 
 
+
 // Gradients
 
 .bg-gradient1 {
@@ -229,5 +231,86 @@ a {
 
 .table-dark {
   background-color: #806748;
-  // border-color: $brand-primary;
 }
+
+
+.table>thead>tr>th{
+  border: 2px solid;
+  border-color: $brand-darkBrown;
+  border-radius: 30px !important;
+
+  }
+ 
+
+
+.table>tbody>tr>td{
+  border: 2px solid;
+  border-color: $brand-darkBrown;
+
+  }
+
+.imgeOpacity {
+
+  opacity: 0.4;
+}
+
+  
+
+
+.carouselHeight{
+  height: calc(100vh);
+  
+  overflow: hidden;
+}
+
+
+.buttonCenter{
+  position: absolute;
+  bottom: 18%;
+  left: calc(50% - 100px);
+}
+
+.center{
+  margin: 0 auto;
+  float: none;
+}
+
+
+
+.btn-primary {
+  color: #fff;
+  background-color: $brand-primary;
+  border-color: $brand-primary;
+  
+}
+
+
+.btn-primary:hover {
+  color: $brand-primary;
+  background-color: $brand-brown;
+  border-color: $brand-brown;
+}
+
+
+.coverTitle {
+  position: absolute;
+  bottom: 50%;
+  left: calc(50% - 224px);
+  font-size: 70px;
+  color:  $brand-primary;
+  font-weight:bold;
+
+  @media (max-width: 550px){
+    font-size: 40px;
+    left: calc(50% - 140px);
+  }
+}
+
+
+
+@media (min-width: 808px){
+  .d-HomePage-block {
+      display: block!important;
+  }
+}
+

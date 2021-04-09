@@ -27,7 +27,7 @@ h4 {
 }
 
 a {
-  color: #a31f34;
+  color: #833c1e;
 }
 
 .container {
@@ -103,12 +103,12 @@ a {
   background-color: #000514;
 }
 
-.bg-red {
-  background-color: #a31f34;
+.bg-blue {
+  background-color: #833c1e;
 }
 
 .text-primary {
-  color: #a31f34;
+  color: #833c1e;
 }
 
 .text-success {
@@ -189,4 +189,68 @@ a {
 
 .table-dark {
   background-color: #806748;
+}
+
+.table > thead > tr > th {
+  border: 2px solid;
+  border-color: #bd7461;
+  border-radius: 30px !important;
+}
+
+.table > tbody > tr > td {
+  border: 2px solid;
+  border-color: #bd7461;
+}
+
+.imgeOpacity {
+  opacity: 0.4;
+}
+
+.carouselHeight {
+  height: calc(100vh);
+  overflow: hidden;
+}
+
+.buttonCenter {
+  position: absolute;
+  bottom: 18%;
+  left: calc(50% - 100px);
+}
+
+.center {
+  margin: 0 auto;
+  float: none;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #833c1e;
+  border-color: #833c1e;
+}
+
+.btn-primary:hover {
+  color: #833c1e;
+  background-color: #cdb8a5;
+  border-color: #cdb8a5;
+}
+
+.coverTitle {
+  position: absolute;
+  bottom: 50%;
+  left: calc(50% - 224px);
+  font-size: 70px;
+  color: #833c1e;
+  font-weight: bold;
+}
+@media (max-width: 550px) {
+  .coverTitle {
+    font-size: 40px;
+    left: calc(50% - 140px);
+  }
+}
+
+@media (min-width: 808px) {
+  .d-HomePage-block {
+    display: block !important;
+  }
 }
